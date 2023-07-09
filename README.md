@@ -9,14 +9,14 @@
   uppload unzipper.zip
 ```
 
-- ektrak di server
+- ekstrak di server
 ```
-ektrak unzipper di server
+ekstrak unzipper di server
 ```
 
 - buka halaman web /unzipper
 ```
-ektrak filenya
+ekstrak filenya
 ```
 
 
